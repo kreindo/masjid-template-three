@@ -5,12 +5,12 @@ export const Header = () => {
       <div className="flex items-center font-bold text-2xl">
         <Image
           className="brightness-0 invert"
-          src={'/assets/images/masjid_nurussalam-02.svg'}
+          src={'/assets/logo/logo.svg'}
           alt="logo"
           width={50}
           height={50}
         />
-        <h1 className="ml-4">Masjid Nurussalam</h1>
+        <h1 className="ml-4">Masjid Raydhatul Jannah</h1>
       </div>
       <div className="hidden sm:block">
         <ul className="flex">

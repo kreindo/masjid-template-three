@@ -1,4 +1,5 @@
-import Image from 'next/image';import Link from 'next/link';
+import Image from 'next/image';
+import Link from 'next/link';
 export const Header = () => {
   return (
     <div className="flex pt-[50px] justify-center sm:justify-between items-center text-white">
